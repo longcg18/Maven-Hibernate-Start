@@ -1,0 +1,3 @@
+com\longcg\maven\hibernate\start\utils\HibernateUtil.class
+com\longcg\maven\hibernate\start\entities\Student.class
+com\longcg\maven\hibernate\start\MavenHibernateStart.class
